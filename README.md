@@ -1,5 +1,3 @@
-### Hi there 👋
-
 [![wakatime](https://wakatime.com/badge/user/41caaf35-4a71-4234-928a-f25ab33580c9.svg)](https://wakatime.com/@41caaf35-4a71-4234-928a-f25ab33580c9)
 
 <!--
